@@ -1,4 +1,38 @@
 
+~
+~
+~
+~
+~
+~
+
+~
+~
+~
+5. Distributed Git
+5.1 Distributed Workflows
+5.2 Contributing to a Project
+5.3 Maintaining a Project
+5.4 Summary
+6. GitHub
+6.1 Account Setup and Configuration
+6.2 Contributing to a Project
+6.3 Maintaining a Project
+6.4 Managing an organization
+6.5 Scripting GitHub
+6.6 Summary
+7. Git Tools
+7.1 Revision Selection
+7.2 Interactive Staging
+7.3 Stashing and Cleaning
+7.4 Signing Your Work
+7.5 Searching
+7.6 Rewriting History
+7.7 Reset Demystified
+7.8 Advanced Merging
+7.9 Rerere
+7.10 Debugging with Git
+7.11 Submodules
 
 
 
