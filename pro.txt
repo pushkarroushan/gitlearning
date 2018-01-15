@@ -1,7 +1,7 @@
 # This program adds two numbers
 
 num1 = 25
-num2 = 60
+num2 = 680
 
 # Add two numbers
 sum = float(num1) + float(num2)
