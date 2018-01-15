@@ -7,4 +7,14 @@
 6.1 Account Setup and Configuration
 6.2 Contributing to a Project
 6.3 Maintaining a Project
+<<<<<<< HEAD
 6.4 Managing an organizati
+=======
+6.4 Managing an organization
+6.5 Scripting GitHub
+6.6 Summary
+hi pushkar i am waiting for u
+
+
+
+>>>>>>> master
