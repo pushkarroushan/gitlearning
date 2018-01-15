@@ -1,14 +1,1 @@
-# This program adds two numbers
-
-num1 = 25
 <<<<<<< HEAD
-num2 = 4
-=======
-num2 = 680
->>>>>>> parent of 83b880d... pro.txt
-
-# Add two numbers
-sum = float(num1) + float(num2)
-
-# Display the sum
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
