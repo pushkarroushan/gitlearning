@@ -1,2 +1,15 @@
+<<<<<<< HEAD
 pushkar.txt
+=======
+EmployeeAutomation/target/*
+EmployeeAutomation/build/*
+EmployeeAutomation/.classpath
+EmployeeAutomation/.project
+EmployeeAutomation/.settings/*
+Spring3HibernateApp/target/*
+Spring3HibernateApp/build/*
+Spring3HibernateApp/.classpath
+Spring3HibernateApp/.project
+Spring3HibernateApp/.settings/*
+>>>>>>> 87357a4c6054e980c7d2e0412a090bb4e687a1f9
 
